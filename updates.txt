@@ -3,7 +3,7 @@
 	"status": "None",
 	"rat": "None",
 	"autolaunch": "None",
-	"ip": "2.186.165.58",
+	"ip": "127.0.0.1",
 	"port": 6464,
 	"ping_port": 7979,
 	"buffer": 51200
